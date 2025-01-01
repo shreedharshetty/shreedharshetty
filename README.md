@@ -22,9 +22,8 @@
 
 
 
-- 🔭 I’m currently working on [Oddz](https://oddz.fi/).
-- 👯 I’m looking to collaborate on [Oddz](https://oddz.fi).
-- 🤔 I’m looking for help with Oddz documentation.
+- 🔭 I’m currently working on [Novastro](https://github.com/novastro-chain/).
+- 👯 I’m looking to collaborate on [Novastro](https://github.com/novastro-chain/).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @shreedharshetty](https://twitter.com/shreedharshetty)
 - 😄 Pronouns: He/His
